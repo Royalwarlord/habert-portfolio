@@ -1,0 +1,4 @@
+﻿User-agent: *
+Allow: /
+
+Sitemap: https://habert-portfolio.vercel.app/sitemap.xml

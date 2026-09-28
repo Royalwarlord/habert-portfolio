@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/</loc>
+  </url>
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/about</loc>
+  </url>
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/services</loc>
+  </url>
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/skills</loc>
+  </url>
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/projects</loc>
+  </url>
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/resume</loc>
+  </url>
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/contact</loc>
+  </url>
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/projects/rotary-taveta</loc>
+  </url>
+
+  <url>
+    <loc>https://habert-portfolio.vercel.app/projects/drop-zone</loc>
+  </url>
+
+</urlset>
